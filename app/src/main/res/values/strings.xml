@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="yandex_api">Сделано с использованием
+        сервиса Яндекс.Предиктор</string>
+    <string name="insert_text">Введите текст</string>
+    <string name="prediction">Предсказание</string>
+
+</resources>
