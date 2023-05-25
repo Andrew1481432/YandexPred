@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Retrofit</string>
+    <string name="app_name">YandexPred</string>
     <string name="yandex_api">Сделано с использованием
         сервиса Яндекс.Предиктор</string>
     <string name="insert_text">Введите текст</string>
